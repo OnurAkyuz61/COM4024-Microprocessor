@@ -28,7 +28,7 @@ The repository includes both C and Assembly language examples:
 
 Many of these examples can be tested using the CPUlator online ARM simulator. CPUlator provides a virtual environment for testing ARM assembly and C code with simulated hardware components.
 
-[Access CPUlator ARM Simulator]([https://cpulator.01xz.net/arm/](https://cpulator.01xz.net/?sys=arm-de1soc))
+[Access CPUlator ARM Simulator](https://cpulator.01xz.net/?sys=arm-de1soc)
 
 ### Keil µVision
 
